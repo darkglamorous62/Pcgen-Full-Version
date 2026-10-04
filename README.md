@@ -240,4 +240,4 @@ This repository serves as the official landing page for PCGen. The software is d
 **Get the most recent version of PCGen today!**
 
 ---
-**Last updated:** 2026-10-04 08:57:00 UTC
+**Last updated:** 2026-10-04 14:35:38 UTC
